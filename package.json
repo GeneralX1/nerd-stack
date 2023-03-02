@@ -24,7 +24,7 @@
     "express-flash": "0.0.2",
     "express-session": "~1.17.3",
     "flux": "^2.0.1",
-    "helmet": "~3.21.1",
+    "helmet": "~3.23.3",
     "jade": "~1.11.0",
     "keymirror": "~0.1.1",
     "knex": "^2.4.0",
