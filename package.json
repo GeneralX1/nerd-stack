@@ -53,7 +53,7 @@
     "use-strict": "~1.0.0",
     "uuid": "^2.0.1",
     "when": "^3.7.2",
-    "winston": "~1.0.0",
+    "winston": "~1.1.2",
     "@snyk/protect": "latest"
   },
   "devDependencies": {
